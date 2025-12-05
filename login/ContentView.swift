@@ -3,7 +3,7 @@
 //  login
 //
 //  Created by student on 02/12/25.
-//this is an simlee project 
+//
 
 import SwiftUI
 
